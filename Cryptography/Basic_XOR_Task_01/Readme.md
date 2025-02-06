@@ -9,7 +9,7 @@ Can you outsmart Bob and decrypt his message by XORing each character with 25? H
 
 ## Problem Setter
 
-This challenge was created by **Shoaib Bin Rashid** —an aspiring cryptography enthusiast who occasionally forgets things, like the XOR key! 😅  
+This challenge was created by **Shoaib Bin Rashid** —an aspiring cryptography enthusiast who occasionally forgets things, like the XOR key! 
 Feel free to reach out if you find any issues or just want to chat about puzzles. 🧩
 
 ## Contact  
