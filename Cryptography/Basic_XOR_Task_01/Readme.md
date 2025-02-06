@@ -13,7 +13,7 @@ This challenge was created by **Shoaib Bin Rashid** —an aspiring cryptography 
 Feel free to reach out if you find any issues or just want to chat about puzzles. 🧩
 
 ## Contact  
-- **LinkedIn:** [*Shoaib Bin Rashid*](https://www.linkedin.com/in/shoaib-bin-rashid/)  
+- **LinkedIn:** [Shoaib Bin Rashid](https://www.linkedin.com/in/shoaib-bin-rashid/)  
 - **Email:** [shoaibbinrashid11@gmail.com]  
 - **GitHub:** [Shoaib Bin Rashid](https://github.com/Shoaib-Bin-Rashid)  
 - **Twitter:** [@ShoaibBinRashi1](https://x.com/ShoaibBinRashi1)  
