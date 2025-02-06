@@ -1,7 +1,7 @@
 # Basic XOR
 
 ## Problem Statement
- Chinku, the self-proclaimed "XOR-acle," encrypted a secret message using XOR with the magic number 25. Now, he forgot what it was! The only clue he left behind is this mysterious ciphertext:
+Boltu, the self-proclaimed "XOR-acle," encrypted a secret message using XOR with the magic number 25. Now, he forgot what it was! The only clue he left behind is this mysterious ciphertext:
 
 ```Kl|m9Z`{|k9J|zlkpm`9Zul{```
 
