@@ -12,7 +12,7 @@ Luckily, you intercepted the encrypted message. Can you decrypt it and find wher
 -   **Public exponent**: e = `3` 
 -   **Ciphertext**: c = `7637571935836530936561108981028461653972782268548286459580455649257265696870262731865816544184422190794387755032868422825517132438988191511090982834713240249542670205846570004344419696877748407376982924395476610305756892860438972310476617905270109172330175288`
 
--   ## Problem Setter
+  ## Problem Setter
 
 This challenge was brought to you by Shoaib Bin Rashid — a cryptography enthusiast who might have accidentally left the key in the fridge while making cha. He’s still not sure why the treasure map looks so much like a pizza recipe. 🍕💀
 
