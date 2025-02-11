@@ -1,4 +1,4 @@
-# ROLL THE BRUTE
+# Roll The Brute
 
 ## Problem Statement
 
